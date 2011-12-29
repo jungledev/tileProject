@@ -15,10 +15,13 @@ namespace TileProject
 {
     public partial class MainPage : PhoneApplicationPage
     {
-        // Constructor
         public MainPage()
         {
             InitializeComponent();
+        }
+        private void btnAddTile_Click(object sender, RoutedEventArgs e)
+        {
+            //add tile
         }
     }
 }
