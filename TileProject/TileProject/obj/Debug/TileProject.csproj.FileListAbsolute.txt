@@ -1,0 +1,15 @@
+C:\Users\fontao\tileProject\TileProject\TileProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fontao\tileProject\TileProject\TileProject\obj\Debug\App.g.i.cs
+C:\Users\fontao\tileProject\TileProject\TileProject\obj\Debug\MainPage.g.i.cs
+C:\Users\fontao\tileProject\TileProject\TileProject\obj\Debug\TileProject.g.resources
+C:\Users\fontao\tileProject\TileProject\TileProject\Bin\Debug\ApplicationIcon.png
+C:\Users\fontao\tileProject\TileProject\TileProject\Bin\Debug\TileProject.dll
+C:\Users\fontao\tileProject\TileProject\TileProject\Bin\Debug\TileProject.pdb
+C:\Users\fontao\tileProject\TileProject\TileProject\Bin\Debug\AppManifest.xaml
+C:\Users\fontao\tileProject\TileProject\TileProject\Bin\Debug\TileProject.xap
+C:\Users\fontao\tileProject\TileProject\TileProject\Bin\Debug\TileProjectTaskAgent.dll
+C:\Users\fontao\tileProject\TileProject\TileProject\Bin\Debug\TileProjectTaskAgent.pdb
+C:\Users\fontao\tileProject\TileProject\TileProject\obj\Debug\TileProject.dll
+C:\Users\fontao\tileProject\TileProject\TileProject\obj\Debug\TileProject.pdb
+C:\Users\fontao\tileProject\TileProject\TileProject\obj\Debug\XapCacheFile.xml
+C:\Users\fontao\tileProject\TileProject\TileProject\Bin\Debug\tileEsc.png

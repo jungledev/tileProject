@@ -1,0 +1,6 @@
+C:\Users\fontao\tileProject\TileProject\TileProjectTaskAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fontao\tileProject\TileProject\TileProjectTaskAgent\Bin\Debug\TileProjectTaskAgent.dll
+C:\Users\fontao\tileProject\TileProject\TileProjectTaskAgent\Bin\Debug\TileProjectTaskAgent.pdb
+C:\Users\fontao\tileProject\TileProject\TileProjectTaskAgent\obj\Debug\TileProjectTaskAgent.dll
+C:\Users\fontao\tileProject\TileProject\TileProjectTaskAgent\obj\Debug\TileProjectTaskAgent.pdb
+C:\Users\fontao\tileProject\TileProject\TileProjectTaskAgent\Bin\Debug\tileEsc.png
